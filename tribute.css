@@ -1,0 +1,39 @@
+body {
+    
+    background-color: rgb(53, 56, 7);
+    
+    margin: 30%;
+}
+#title {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 5px 5px 10px white;
+
+}
+#para{
+    color:white;
+    text-align: center;
+    
+}
+#tribute{
+    background-color: rgba(7, 49, 27, 0.25);
+            box-shadow: 20px 20px 20px #353b35;
+           
+            font-family: Georgia;
+            padding: 20px 20px;
+            margin: 9px;
+            margin-top: 25px;
+          
+}
+h1.data {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+   
+}
+#box{
+    color:white;
+    text-align: center;
+}
+ 

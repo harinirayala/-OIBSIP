@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background:linear-gradient(to right , orange,white,green);
+    text-shadow : 5px 5px 10px navy;
+
+
+}
+#id{
+    color:navy;
+    text-align: left;
+}
+#main{
+    width: 1350px;
+    height: 280px;
+    background-color:white;
+    text-align: center;
+   
+   
+    vertical-align: top;
+    display: table-cell;
+    padding: 10px 0 0;
+    position: fixed;
+}
+
+#LibraryContent {
+    background: transparent;
+    vertical-align: top;
+    display: table-cell;
+    padding: 8px 0 0;
+    position: fixed;
+    top: 10%;
+    right: 50%;
+    margin-top: -40px;
+    margin-right: -700px;
+}
+#font{
+    text-align: left;
+}
+.button {
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 200px;
+}
